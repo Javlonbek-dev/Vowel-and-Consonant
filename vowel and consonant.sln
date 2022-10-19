@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vowel and consonant", "vowel and consonant\vowel and consonant.csproj", "{B14AA3E1-3F4C-4681-8E1C-68B05757DDAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B14AA3E1-3F4C-4681-8E1C-68B05757DDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14AA3E1-3F4C-4681-8E1C-68B05757DDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14AA3E1-3F4C-4681-8E1C-68B05757DDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14AA3E1-3F4C-4681-8E1C-68B05757DDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0080C867-A7CA-4275-9A1A-CB74E3DF3528}
+	EndGlobalSection
+EndGlobal
